@@ -10,3 +10,6 @@ anchor: community
 - [News](https://laravel-news.com/)
 - [Laravel.io Forums](http://laravel.io/forum)
 - [Laracasts Forums](https://laracasts.com/discuss)
+- [Google+ Community](https://plus.google.com/communities/106838454910116161868)
+- [Laravel Hunt](https://laravel-hunt.com)
+- [Meetup](http://laravel.meetup.com/)
